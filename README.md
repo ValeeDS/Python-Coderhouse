@@ -1,4 +1,4 @@
-# Pyhton-Coderhouse
+# Python-Coderhouse
 
 ###### [Español](README-sp.md)
 
