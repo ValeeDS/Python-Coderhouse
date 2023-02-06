@@ -1,6 +1,6 @@
 # Pyhton-Coderhouse
 
-####### [Español](README-sp.md)
+###### [Español](README-sp.md)
 
 Repository created to upload the solutions of the Python course activities from CoderHouse
 

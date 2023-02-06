@@ -1,6 +1,6 @@
 # Pyhton-Coderhouse
 
-####### [English](README.md)
+###### [English](README.md)
 
 Repositorio creado para subir las resoluciones de las actividades del curso de Python de CoderHouse.
 
