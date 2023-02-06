@@ -4,7 +4,7 @@
 
 Repositorio creado para subir las resoluciones de las actividades del curso de Python de CoderHouse.
 
-El curso fue realizado entre enero y marzo del año 2023
+El curso fue realizado entre enero y abril del año 2023
 
 Las consignas se encuentran en su totalidad, en español. En cambio las resoluciones pueden estar en inglés o en español.
 

@@ -4,7 +4,7 @@
 
 Repository created to upload the solutions of the Python course activities from CoderHouse
 
-The course was completed between January and March of 2023.
+The course was completed between January and April of 2023.
 
 The instructions are in Spanish. However, the solutions may be in English or Spanish.
 
